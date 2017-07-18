@@ -1,5 +1,5 @@
 // +build release
 
-package main
+package env
 
 const DEBUG = false
